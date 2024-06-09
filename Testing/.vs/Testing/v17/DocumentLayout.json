@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\learning\\dotnet\\Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA5EB0-577D-4C35-B93B-058C4E2866A8}|SimpleApp\\SimpleApp.csproj|d:\\learning\\dotnet\\testing\\simpleapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA5EB0-577D-4C35-B93B-058C4E2866A8}|SimpleApp\\SimpleApp.csproj|solutionrelative:simpleapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA5EB0-577D-4C35-B93B-058C4E2866A8}|SimpleApp\\SimpleApp.csproj|d:\\learning\\dotnet\\testing\\simpleapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FA5EB0-577D-4C35-B93B-058C4E2866A8}|SimpleApp\\SimpleApp.csproj|solutionrelative:simpleapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA72E2CC-470A-416E-A1B4-B35838F4EE73}|SimpleApp.Tests\\SimpleApp.Tests.csproj|d:\\learning\\dotnet\\testing\\simpleapp.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA72E2CC-470A-416E-A1B4-B35838F4EE73}|SimpleApp.Tests\\SimpleApp.Tests.csproj|solutionrelative:simpleapp.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA72E2CC-470A-416E-A1B4-B35838F4EE73}|SimpleApp.Tests\\SimpleApp.Tests.csproj|d:\\learning\\dotnet\\testing\\simpleapp.tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA72E2CC-470A-416E-A1B4-B35838F4EE73}|SimpleApp.Tests\\SimpleApp.Tests.csproj|solutionrelative:simpleapp.tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA72E2CC-470A-416E-A1B4-B35838F4EE73}|SimpleApp.Tests\\SimpleApp.Tests.csproj|d:\\learning\\dotnet\\testing\\simpleapp.tests\\comparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA72E2CC-470A-416E-A1B4-B35838F4EE73}|SimpleApp.Tests\\SimpleApp.Tests.csproj|solutionrelative:simpleapp.tests\\comparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA72E2CC-470A-416E-A1B4-B35838F4EE73}|SimpleApp.Tests\\SimpleApp.Tests.csproj|d:\\learning\\dotnet\\testing\\simpleapp.tests\\simpleapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA72E2CC-470A-416E-A1B4-B35838F4EE73}|SimpleApp.Tests\\SimpleApp.Tests.csproj|solutionrelative:simpleapp.tests\\simpleapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FA5EB0-577D-4C35-B93B-058C4E2866A8}|SimpleApp\\SimpleApp.csproj|d:\\learning\\dotnet\\testing\\simpleapp\\simpleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B9FA5EB0-577D-4C35-B93B-058C4E2866A8}|SimpleApp\\SimpleApp.csproj|solutionrelative:simpleapp\\simpleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\learning\\dotnet\\Testing\\SimpleApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SimpleApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\learning\\dotnet\\Testing\\SimpleApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SimpleApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:47:34.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeControllerTests.cs",
+              "DocumentMoniker": "D:\\learning\\dotnet\\Testing\\SimpleApp.Tests\\HomeControllerTests.cs",
+              "RelativeDocumentMoniker": "SimpleApp.Tests\\HomeControllerTests.cs",
+              "ToolTip": "D:\\learning\\dotnet\\Testing\\SimpleApp.Tests\\HomeControllerTests.cs",
+              "RelativeToolTip": "SimpleApp.Tests\\HomeControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:32:21.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductTests.cs",
+              "DocumentMoniker": "D:\\learning\\dotnet\\Testing\\SimpleApp.Tests\\ProductTests.cs",
+              "RelativeDocumentMoniker": "SimpleApp.Tests\\ProductTests.cs",
+              "ToolTip": "D:\\learning\\dotnet\\Testing\\SimpleApp.Tests\\ProductTests.cs",
+              "RelativeToolTip": "SimpleApp.Tests\\ProductTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:48:36.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\learning\\dotnet\\Testing\\SimpleApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SimpleApp\\Models\\Product.cs",
+              "ToolTip": "D:\\learning\\dotnet\\Testing\\SimpleApp\\Models\\Product.cs",
+              "RelativeToolTip": "SimpleApp\\Models\\Product.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:46:12.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Comparer.cs",
+              "DocumentMoniker": "D:\\learning\\dotnet\\Testing\\SimpleApp.Tests\\Comparer.cs",
+              "RelativeDocumentMoniker": "SimpleApp.Tests\\Comparer.cs",
+              "ToolTip": "D:\\learning\\dotnet\\Testing\\SimpleApp.Tests\\Comparer.cs",
+              "RelativeToolTip": "SimpleApp.Tests\\Comparer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:15:26.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimpleApp",
+              "DocumentMoniker": "D:\\learning\\dotnet\\Testing\\SimpleApp\\SimpleApp.csproj",
+              "RelativeDocumentMoniker": "SimpleApp\\SimpleApp.csproj",
+              "ToolTip": "D:\\learning\\dotnet\\Testing\\SimpleApp\\SimpleApp.csproj",
+              "RelativeToolTip": "SimpleApp\\SimpleApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-09T04:46:08.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SimpleApp.Tests",
+              "DocumentMoniker": "D:\\learning\\dotnet\\Testing\\SimpleApp.Tests\\SimpleApp.Tests.csproj",
+              "RelativeDocumentMoniker": "SimpleApp.Tests\\SimpleApp.Tests.csproj",
+              "ToolTip": "D:\\learning\\dotnet\\Testing\\SimpleApp.Tests\\SimpleApp.Tests.csproj",
+              "RelativeToolTip": "SimpleApp.Tests\\SimpleApp.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-09T04:44:34.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

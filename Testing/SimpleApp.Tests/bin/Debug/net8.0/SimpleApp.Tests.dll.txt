@@ -1,0 +1,3 @@
+SimpleApp.Tests.HomeControllerTests.IndexActionModelIsComplete
+SimpleApp.Tests.ProductTests.CanChangeProductName
+SimpleApp.Tests.ProductTests.CanChangeProductPrice

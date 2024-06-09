@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "7UlQL6waZCfbp+V3hQ+bv2H6hLzgQ+ru5oPvps+1H8U=",
+  "Source": "SportsStore",
+  "BasePath": "_content/SportsStore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SportsStore\\wwwroot",
+      "Source": "SportsStore",
+      "ContentRoot": "D:\\learning\\dotnet\\SportsSln\\SportsStore\\wwwroot\\",
+      "BasePath": "_content/SportsStore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
